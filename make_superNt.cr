@@ -1,6 +1,6 @@
 require "option_parser"
 
-ROOTCORE_DIR = "/data/uclhc/uci/user/asoffa/projects/ss3l/productions/susyNt_n0232/make_superNt/susynt-read/"
+ROOTCORE_DIR = "/data/uclhc/uci/user/asoffa/projects/ss3l/productions/susyNt_n0232/superNt_write/susynt-read/"
 
 
 # extension for job name => flags
