@@ -1,0 +1,8 @@
+*.swp
+
+FakeObjectTools/
+archive/
+bin/
+fax/
+susynt-read/
+
