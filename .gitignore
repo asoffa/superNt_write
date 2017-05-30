@@ -4,5 +4,6 @@ FakeObjectTools/
 archive/
 bin/
 fax/
+out_*/
 susynt-read/
 
