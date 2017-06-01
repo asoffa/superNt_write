@@ -6,4 +6,5 @@ bin/
 fax/
 out_*/
 susynt-read/
+test_run/
 
